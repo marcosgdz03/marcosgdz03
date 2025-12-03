@@ -49,12 +49,6 @@ Si quieres ponerte en contacto conmigo, aquí me encuentras:
 
 🔗 LinkedIn: https://www.linkedin.com/in/marcos-giménez-díaz-004b0221a/
 
-📈 Estadísticas de GitHub
-
-
-![Marc GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcosgdz03&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgdz03&layout=compact&theme=tokyonight)
-
 
 🌟 Gracias por visitar mi perfil
 
