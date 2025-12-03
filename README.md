@@ -4,7 +4,7 @@ Soy un <b>desarrollador</b> en formación apasionado por la tecnología, el apre
 
 🛠️ Tecnologías y herramientas <br>
 
-<img src="https://skillicons.dev/icons?i=spring,angular,react,bootstrap,git,github,linux,docker" />
+<img src="https://skillicons.dev/icons?i=spring,angular,react,bootstrap,git,github,linux,docker,aws" />
 
 <h2>🚀 Proyectos destacados</h2>
 
