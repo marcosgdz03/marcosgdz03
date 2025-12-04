@@ -41,7 +41,7 @@ Mejora en el uso de github
 
 Mejorar mi documentación y organización de repositorios
 
-📫 Contacto
+<h2>📫 Contacto </h2>
 
 Si quieres ponerte en contacto conmigo, aquí me encuentras:
 
