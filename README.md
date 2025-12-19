@@ -1,4 +1,4 @@
-# ¡Hola! Soy Marc
+# ¡Hola! Soy Marcos
 
 Soy un <b>desarrollador</b> en formación apasionado por la tecnología, el aprendizaje continuo y la creación de proyectos que me ayuden a mejorar mis habilidades. Me interesa especialmente el desarrollo backend, la programación en Java y el diseño de interfaces limpias y funcionales.
 
