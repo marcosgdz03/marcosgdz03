@@ -12,12 +12,9 @@ Soy un <b>desarrollador</b> en formación apasionado por la tecnología, el apre
 
 Proyecto con backend y frontend y base de datos mysql de página web cliente y administradora para tiendas.
 
-<h3>🔹 ListaSkaters</h3>
+<h3>🔹 SQL - HELPER</h3>
 
-Pequeño proyecto en Java para gestionar una lista de elementos.
-👉 Práctica de colecciones, clases y métodos.
-
-(Cuando quieras, puedo ayudarte a mejorar los README de cada proyecto o a escribir descripciones más completas.)
+Extensión para vs code para fomentar a los programadores a usar sql en el backend en lugar de usar librerías para mejorar eficiencia, rendimiento y facilitando el trabajo a largo plazo.
 
 <h2>📚 Actualmente aprendiendo</h2>
 
