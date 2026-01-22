@@ -8,11 +8,6 @@ Soy un <b>desarrollador</b> en formación apasionado por la tecnología, el apre
 
 <h2>🚀 Proyectos destacados</h2>
 
-<h3>🔹 ProyectoPagina</h3>
-
-Pequeña página web creada con HTML y CSS.
-👉 Enfocada en maquetación, práctica de estilos y estructura básica web.
-
 <h3>🔹 ProyectoIntegrador</h3>
 
 Proyecto escrito en Java que integra diferentes conceptos fundamentales del lenguaje.
