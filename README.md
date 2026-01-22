@@ -8,10 +8,9 @@ Soy un <b>desarrollador</b> en formación apasionado por la tecnología, el apre
 
 <h2>🚀 Proyectos destacados</h2>
 
-<h3>🔹 ProyectoIntegrador</h3>
+<h3>🔹 TiendaTFM</h3>
 
-Proyecto escrito en Java que integra diferentes conceptos fundamentales del lenguaje.
-👉 Perfecto para mostrar lógica, estructuras y organización del código.
+Proyecto con backend y frontend y base de datos mysql de página web cliente y administradora para tiendas.
 
 <h3>🔹 ListaSkaters</h3>
 
