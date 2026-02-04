@@ -16,14 +16,6 @@ Proyecto con backend y frontend y base de datos mysql de página web cliente y a
 
 Extensión para vs code para fomentar a los programadores a usar sql en el backend en lugar de usar librerías para mejorar eficiencia, rendimiento y facilitando el trabajo a largo plazo.
 
-<h2>📚 Actualmente aprendiendo</h2>
-
-Dockers y kubernetes
-
-Redes
-
-Expo y React
-
 <h2>🎯 Próximos objetivos</h2>
 
 Construir proyectos más grandes y completos
