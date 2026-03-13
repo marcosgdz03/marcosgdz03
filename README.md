@@ -19,14 +19,3 @@ Desarrollador en formación apasionado por la tecnología, el aprendizaje contin
 👩‍💻 Trabajando en accenture para BBVA
 
 🧠 Actualmente estudiando ingeniería y por cuenta propia C# con .NET
-
-
-
-
-
-
-## Other Common Github Profile Sections
-👩‍💻 Trabajando en accenture para BBVA
-
-🧠 Actualmente estudiando ingeniería y por cuenta propia C# con .NET
-
