@@ -15,19 +15,11 @@ Desarrollador en formación apasionado por la tecnología, el aprendizaje contin
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gim%C3%A9nez-d%C3%ADaz-004b0221a/)
 
 
-
-
-
-
-
 ## Other Common Github Profile Sections
 👩‍💻 Trabajando en accenture para BBVA
 
 🧠 Actualmente estudiando ingeniería y por cuenta propia C# con .NET
 
-
-## 🔗 Link
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gim%C3%A9nez-d%C3%ADaz-004b0221a/)
 
 
 
