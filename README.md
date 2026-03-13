@@ -10,7 +10,7 @@ Desarrollador en formación apasionado por la tecnología, el aprendizaje contin
 ![marcosgdz03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgdz03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
-<img src="https://skillicons.dev/icons?i=spring,angular,react,bootstrap,git,github,linux,docker,aws" />
+
 ## 🔗 Link
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gim%C3%A9nez-d%C3%ADaz-004b0221a/)
 
