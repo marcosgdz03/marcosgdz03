@@ -6,6 +6,9 @@ Soy un <b>desarrollador</b> en formación apasionado por la tecnología, el apre
 
 <img src="https://skillicons.dev/icons?i=spring,angular,react,bootstrap,git,github,linux,docker,aws" />
 
+![marcosgdz03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgdz03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+
+
 <h2>🚀 Proyectos destacados</h2>
 
 <h3>🔹 TiendaTFM</h3>
@@ -30,7 +33,7 @@ Si quieres ponerte en contacto conmigo, aquí me encuentras:
 
 ✉️ Email: marcgimdi@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/marcos-giménez-díaz-004b0221a/
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-gim%C3%A9nez-d%C3%ADaz-004b0221a/)
 
 
 🌟 Gracias por visitar mi perfil
