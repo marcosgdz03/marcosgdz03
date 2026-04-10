@@ -6,8 +6,6 @@ Soy un <b>desarrollador</b> en formación apasionado por la tecnología, el apre
 
 <img src="https://skillicons.dev/icons?i=spring,angular,react,bootstrap,git,github,linux,docker,aws" />
 
-![marcosgdz03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosgdz03&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
 
 <h2>🚀 Proyectos destacados</h2>
 
